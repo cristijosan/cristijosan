@@ -26,16 +26,16 @@
 Explore some of my key projects:
 
 - [🌐 Suflet](https://suflet.md/) - A platform for soulful connections.
-- [🚀 Galaxy Attack: Space Shooter](https://apps.apple.com/md/app/galaxy-attack-space-shooter/id6443487632) - An exciting space shooter game.
-- [🔫 Battle Go: PvP Shooter Game](https://apps.apple.com/md/app/battle-go-pvp-shooter-game/id6444125410) - Engage in thrilling PvP battles.
-- [🕹️ Human Ragdoll Playground](https://apps.apple.com/md/app/human-ragdoll-playground/id6444488412) - A fun ragdoll simulation game.
+- [🚀 Galaxy Attack: Space Shooter](https://apps.apple.com/md/app/galaxy-attack-space-shooter/id6443487632)
+- [🔫 Battle Go: PvP Shooter Game](https://apps.apple.com/md/app/battle-go-pvp-shooter-game/id6444125410)
+- [🕹️ Human Ragdoll Playground](https://apps.apple.com/md/app/human-ragdoll-playground/id6444488412)
 
 ### 🤝 Contributions
 I've proudly contributed to these applications:
 
-- [🏛️ CIOB](https://play.google.com/store/apps/details?id=org.ciob.app) - Chartered Institute of Building app.
-- [📱 Nottinghamshire County Council](https://play.google.com/store/apps/details?id=uk.gov.nottinghamshire.app) - Local government services app.
-- [🐎 BEVA](https://play.google.com/store/apps/details?id=uk.org.beva) - British Equine Veterinary Association app.
-- [🏡 FMB](https://play.google.com/store/apps/details?id=uk.and.fmb) - Federation of Master Builders app.
-- [👁️ College of Optometrists](https://play.google.com/store/apps/details?id=org.college_optometrists.app) - Professional association for optometrists.
-- [📚 MemberWise](https://play.google.com/store/apps/details?id=uk.org.memberwise.app) - Membership and association management app.
+- [🏛️ CIOB](https://play.google.com/store/apps/details?id=org.ciob.app)
+- [📱 Nottinghamshire County Council](https://play.google.com/store/apps/details?id=uk.gov.nottinghamshire.app)
+- [🐎 BEVA](https://play.google.com/store/apps/details?id=uk.org.beva)
+- [🏡 FMB](https://play.google.com/store/apps/details?id=uk.and.fmb)
+- [👁️ College of Optometrists](https://play.google.com/store/apps/details?id=org.college_optometrists.app)
+- [📚 MemberWise](https://play.google.com/store/apps/details?id=uk.org.memberwise.app)

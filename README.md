@@ -28,9 +28,6 @@ Explore some of my key projects:
 - [🪦 Suflet](https://suflet.md/)
 - [🥼 Unicode](https://unicode.md/en)
 - [🔧 AI Translating Tool](https://ai-translating-tool.vercel.app/)
-- [🚀 Galaxy Attack: Space Shooter](https://apps.apple.com/md/app/galaxy-attack-space-shooter/id6443487632)
-- [🔫 Battle Go: PvP Shooter Game](https://apps.apple.com/md/app/battle-go-pvp-shooter-game/id6444125410)
-- [🕹️ Human Ragdoll Playground](https://apps.apple.com/md/app/human-ragdoll-playground/id6444488412)
 
 ### 🤝 Contributions
 I've proudly contributed to these applications:
